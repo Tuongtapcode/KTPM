@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator_80_NguyenNgocTuong", "Caculator_80_NguyenNgocTuong\Caculator_80_NguyenNgocTuong.csproj", "{256451D0-71E5-43E9-B10F-BB4DB7EEE198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaculatorTester_80_NguyenNgocTuong", "CaculatorTester_80_NguyenNgocTuong\CaculatorTester_80_NguyenNgocTuong.csproj", "{2F0FD648-C5BB-43A3-B876-6D09E6DBCF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256451D0-71E5-43E9-B10F-BB4DB7EEE198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256451D0-71E5-43E9-B10F-BB4DB7EEE198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256451D0-71E5-43E9-B10F-BB4DB7EEE198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256451D0-71E5-43E9-B10F-BB4DB7EEE198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0FD648-C5BB-43A3-B876-6D09E6DBCF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0FD648-C5BB-43A3-B876-6D09E6DBCF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0FD648-C5BB-43A3-B876-6D09E6DBCF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0FD648-C5BB-43A3-B876-6D09E6DBCF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83BBFE52-237F-48DB-9621-558A38873348}
+	EndGlobalSection
+EndGlobal
